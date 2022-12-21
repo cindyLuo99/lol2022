@@ -5,3 +5,6 @@ The data used in the project and the data dictionary explaining all the variable
 
 ### Code
 We implemented our analysis in this [jupyter notebbok](analysis.ipynb). 
+
+### Report
+We demonstarted our results and our analysis of the results in this report.
