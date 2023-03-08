@@ -16,8 +16,9 @@ We implemented our analysis in this [jupyter notebbok](analysis.ipynb).
 ### Report
 We demonstarted our results and our analysis of the results in the [report](Report).
 
-### Author Contributions
-- Data preprocessing: Cindy Luo
-- Inference: Bella Zhang
-- Prediction: Maisie Cai, Zoe Xiao
-- Classification: Bella Zhang, Cindy Luo
+
+<> ### Author Contributions
+<> - Data preprocessing: Cindy Luo
+<> - Inference: Bella Zhang
+<> - Prediction: Maisie Cai, Zoe Xiao
+<> - Classification: Bella Zhang, Cindy Luo
